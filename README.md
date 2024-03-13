@@ -1,2 +1,2 @@
 # realiamc
-Código publico de RealiaMC
+Código de RealiaMC.
